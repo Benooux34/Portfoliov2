@@ -1,0 +1,7 @@
+.home {
+    background-image: url("https://www.nasa.gov/sites/default/files/thumbnails/image/bh_accretiondisk_sim_stationary_websize.gif");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: black;
+}
